@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cook and Craft]]></title>
+        <description><![CDATA[Cook and Craft]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 16:41:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chili Cookoff]]></title>
+            <description><![CDATA[<article><h1>Chili Cookoff</h1><p>So I make chili. I think it’s pretty good chili too. My good friend Bryan, from the great state of Texas thinks it’s the best Chili he’s had (Don’t tell his family). What’s my secret? Think like a cowboy. Think like cooky, from city slickers, or just think like John Wayne. Whoever you decide to conjure up in your head, just make sure they can think on their feet, because that’s the basis we’ll be working from.</p></article>]]></description>
+            <link>undefinedchili-cookoff/index.html</link>
+            <guid isPermaLink="false">d6a7d1a6-6f78-4bd2-994c-cc2f572580d4</guid>
+            <pubDate>Fri, 11 Mar 2016 16:41:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
