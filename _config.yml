@@ -1,0 +1,28 @@
+name: Cook and Craft
+favicon: null
+layout_spectrum: 0.011197278741747141
+typography_spectrum: 0.8546489758882672
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24837391055189073
+  lightness: 0.29771447740495205
+  saturation: 0.8559634874109179
+  rhythmicContrast: 0.9871825892478228
+purpose: []
